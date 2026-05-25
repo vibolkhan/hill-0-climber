@@ -1,0 +1,7 @@
+interface:
+  display_name: "Clean UI/UX"
+  short_description: "Keep interfaces clear, usable, and polished"
+  default_prompt: "Use $clean-ui-ux to build or review this interface for clean, polished UX."
+
+policy:
+  allow_implicit_invocation: true

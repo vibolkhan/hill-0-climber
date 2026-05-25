@@ -1,0 +1,7 @@
+interface:
+  display_name: "ESLint Prettier"
+  short_description: "Keep code linted and consistently formatted"
+  default_prompt: "Use $eslint-prettier to configure, run, or fix ESLint and Prettier for this project."
+
+policy:
+  allow_implicit_invocation: true

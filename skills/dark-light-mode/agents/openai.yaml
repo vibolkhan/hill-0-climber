@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dark Light Mode"
+  short_description: "Build accessible light and dark themes"
+  default_prompt: "Use $dark-light-mode to add or review light and dark mode support."
+
+policy:
+  allow_implicit_invocation: true
