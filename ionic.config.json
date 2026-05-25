@@ -1,0 +1,7 @@
+{
+  "name": "Hill0Climber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
