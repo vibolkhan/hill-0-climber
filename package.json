@@ -7,11 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "android:live": "ionic cap run android -l --external",
+    "ios:live": "ionic cap run ios -l --external",
     "test:e2e": "cypress run",
     "test:unit": "vitest",
     "lint": "eslint ."
   },
   "dependencies": {
+    "@capacitor/android": "8.3.4",
     "@capacitor/app": "8.1.0",
     "@capacitor/core": "8.3.4",
     "@capacitor/haptics": "8.0.2",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check UI Platforms"
+  short_description: "Verify UI across iOS, Android, and web"
+  default_prompt: "Use $check-ui-platforms to verify this UI across iOS, Android, and web before finishing."
