@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Hill0Climber",
+	"webDir": "dist",
+	"server": {
+		"url": "http://192.168.3.114:8100"
+	}
+}
