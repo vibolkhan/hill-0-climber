@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "android": "ionic cap run android -l --external",
+    "ios": "ionic cap run ios -l --external",
     "build": "vite build",
     "preview": "vite preview",
     "test:e2e": "cypress run",
@@ -13,6 +15,7 @@
   },
   "dependencies": {
     "@capacitor/app": "8.1.0",
+    "@capacitor/android": "8.3.4",
     "@capacitor/core": "8.3.4",
     "@capacitor/haptics": "8.0.2",
     "@capacitor/keyboard": "8.0.3",
