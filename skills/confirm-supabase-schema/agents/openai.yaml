@@ -1,0 +1,4 @@
+interface:
+  display_name: "Confirm Supabase Schema"
+  short_description: "Verify Supabase tables and columns before queries"
+  default_prompt: "Use $confirm-supabase-schema to confirm the live Supabase table and columns before updating the query."
